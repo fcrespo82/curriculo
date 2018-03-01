@@ -4,8 +4,7 @@
 Rua Ibitirama, 1700 – CEP: 03134-001  
 Vila Prudente – São Paulo  
 Cel.: (11) 97647-4504  
-35 anos - Casado  
-
+35 anos - Casado (2 filhos)  
 
 ***
 ## Áreas de Interesse
@@ -13,90 +12,70 @@ Cel.: (11) 97647-4504
 Desenvolvimento de sistemas, web sites, aplicativos mobile.
 
 ***
-## Formação
-
-### Universitária:
+## Formação Universitária:
 
 * **Universidade Presbiteriana Mackenzie**  
 Bacharelado em Ciências da Computação.  
 Agosto/2005 - Dezembro/2009.  
 
 ***
-## Atividades Profissionais
+## Experiência Profissional
 
-* **Assembléia Legislativa do estado de São Paulo  
-[http://www.al.sp.gov.br](http://www.al.sp.gov.br)**  
-**Função: Analista Legislativo**  
+* **Assembléia Legislativa do estado de São Paulo** -- Analista Legislativo  
+[http://www.al.sp.gov.br](http://www.al.sp.gov.br)  
 Atuo na definição de arquitetura, desenvolvimento e manutenção de sistemas em Java. Introdução do sistema de versionamento Git na área de TI.    
 Outubro/2012 - Atual  
 
-* **ImovelWeb  
-[www.imovelweb.com.br](www.imovelweb.com.br)**  
-**Função: Coordenador CRM**  
+* **ImovelWeb** -- Coordenador CRM  
+[http://www.imovelweb.com.br](http://www.imovelweb.com.br)  
 Responsável pela análise e desenvolvimento de soluções utilizando Microsoft Dynamics CRM 2011, integração de sistemas utilizando C#. Análise e levantamento de requisitos.  
-Junho/2012 – Outubro/2012  
+Junho/2012 - Outubro/2012  
 
-* **L3  
-[http://www.l3.com.br](http://www.l3.com.br)**  
-**Função: Analista Desenvolvedor CRM (Prestador de serviços como Pessoa Jurídica)**  
+* **L3** -- Analista Desenvolvedor CRM  
+[http://www.l3crm.com.br](http://www.l3crm.com.br)  
 Desenvolvimento e manutenção de sistemas em C# utilizando Microsoft Dynamics CRM, personalização de páginas ASP.NET.  
-Março/2010 – Outubro/2012  
+Março/2010 - Outubro/2012  
 
-* **TV1  
-[http://www.tv1.com.br](http://www.tv1.com.br)**  
-**Função: Analista Desenvolvedor .Net**  
+* **TV1** -- Analista Desenvolvedor .NET  
+[http://www.tv1.com.br](http://www.tv1.com.br)  
 Desenvolvimento e manutenção de sites em ASP.NET, C# com integração a banco de dados SQL utilizando dbml.  
-Julho/2009 – Março/2010  
+Julho/2009 - Março/2010  
 
-* **EFIKA**  
-**Função: Analista de Sistemas Pleno (Prestação de serviços como Pessoa Jurídica)**  
+* **EFIKA** -- Analista de Sistemas Pleno  
 Desenvolvimento de sistemas de relatórios para callcenter com backend em Java e frontend em Adobe Flex com integração a banco de dados SQL e Oracle.  
-Março/2009 – Junho/2009  
+Março/2009 - Junho/2009  
 
-* **DEDIC**  
-**Função: Analista de Sistemas Pleno**  
+* **DEDIC** -- Analista de Sistemas Pleno  
 Desenvolvimento e manutenção de sistemas em JSP (Custom Tags, Hibernate, Ajax, Socket, JDBC) com integração a banco de dados Microsoft SQL e Oracle.  
-Julho/2008 – Novembro/2008  
+Julho/2008 - Novembro/2008  
 
-* **Altitude Software  
-[http://www.altitude.com](http://www.altitude.com)**  
-**Função: Assessoria e Consultoria em informática (Prestação de serviços como Pessoa Jurídica)**  
+* **Altitude Software** -- Assessoria e Consultoria em informática  
+[http://www.altitude.com](http://www.altitude.com)  
 Desenvolvimento em uDeveloper (linguagem proprietária). Aprendizagem de .NET (C#, VB) durante 4 meses.  
-Setembro/2006 a Janeiro/2008.  
+Setembro/2006 - Janeiro/2008.  
 
-* **SD Internetworks (Superdownloads)  
-[http://www.superdownloads.com.br](http://www.superdownloads.com.br)**  
-**Função: Estagiário**  
+* **Superdownloads** -- Estagiário  
+[http://www.superdownloads.com.br](http://www.superdownloads.com.br)  
 Manutenção de conteúdo traduzindo textos em inglês e elaboração de reviews e matérias sobre tecnologia e informática.  
-Setembro/2005 a Setembro/2006.  
+Setembro/2005 - Setembro/2006.  
 
 ***
-## Atividades Independentes
+## Experiência
 
-* **DVD-RW, DVD+RW, DVDxRW?**  
-**Matéria publicada na revista Ciudad Del Este Ti**  
-Ano IV - Número 30 - Outubro/2006  
-
-* **Brazip: um dos compactadores mais utilizados do mundo**  
-**Review publicado na revista Ciudad Del Este Ti**  
-Ano V - Número 39 - Julho/2007  
-
-***
-## Atividades Extracurriculares
-
-### Informática:
-#### Conhecimentos avançados em:
 * **Banco de dados**  
-SQL Server, Oracle, MySQL.  
+Microsoft SQL Server, Oracle, MySQL.  
 
 * **Linguagens de programação**  
-Visual Basic 6, C++, C, Java, C#, VB.Net, Haskell, Python, WPF - Windows Presentation Foundation, JavaScript, TypeScript.  
+Visual Basic 6, C++, C, Java, C#, VB.NET, Haskell, Python, WPF - Windows Presentation Foundation, JavaScript, TypeScript.  
 
 * **Tecnologias para web**  
-HTML, CSS, JSP, custom tags.  
+HTML, CSS, JSP, Spring, SpringBoot, AngularJS.  
 
 * **Outros**  
 XAML, XML, YAML, Photoshop, Hibernate, Linux.  
+
+* **Idiomas**
+    * **Inglês** - Fluente
 
 ***
 ## Cursos e Certificações
@@ -180,10 +159,17 @@ Instituto Brasileiro de Tecnologia Avançada (com certificado).
 Março-Abril/2002 – Carga horária: 30 horas  
 
 ***
-## Idiomas:
-* **Inglês - Cultura Inglesa (7 anos)** - Fluente
-
-***
-## Contribuições a comunidade e projetos pessoais
+## Projetos pessoais
 
 GitHub [https://github.com/fcrespo82/](https://github.com/fcrespo82/)
+
+***
+## Atividades Independentes
+
+* **DVD-RW, DVD+RW, DVDxRW?**  
+**Matéria publicada na revista Ciudad Del Este Ti**  
+Ano IV - Número 30 - Outubro/2006  
+
+* **Brazip: um dos compactadores mais utilizados do mundo**  
+**Review publicado na revista Ciudad Del Este Ti**  
+Ano V - Número 39 - Julho/2007  
