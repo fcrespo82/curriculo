@@ -60,7 +60,7 @@ Manutenção de conteúdo traduzindo textos em inglês e elaboração de reviews
 Setembro/2005 - Setembro/2006.  
 
 ***
-## Experiência
+## Conhecimentos
 
 * **Banco de dados**  
 Microsoft SQL Server, Oracle, MySQL.  
