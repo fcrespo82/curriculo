@@ -1,0 +1,1 @@
+curl --form input_files[]=@$1.md --form from=markdown --form to=html --form css=style.css --form other_files[]=@style.css http://c.docverter.com/convert > $1.html

@@ -1,0 +1,4 @@
+curl --form input_files[]=@completo.md --form from=markdown --form to=pdf --form css=style.css --form smart=true --form other_files[]=@style.css http://c.docverter.com/convert > completo.pdf
+curl --form input_files[]=@completo-ingles.md --form from=markdown --form to=pdf --form css=style.css --form smart=true --form other_files[]=@style.css http://c.docverter.com/convert > completo-ingles.pdf
+curl --form input_files[]=@resumido.md --form from=markdown --form to=pdf --form css=style.css --form smart=true --form other_files[]=@style.css http://c.docverter.com/convert > resumido.pdf
+curl --form input_files[]=@resumido-ingles.md --form from=markdown --form to=pdf --form css=style.css --form smart=true --form other_files[]=@style.css http://c.docverter.com/convert > resumido-ingles.pdf
