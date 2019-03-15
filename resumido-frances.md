@@ -1,12 +1,13 @@
 # Fernando Xavier de Freitas Crespo
 
 [fernando82@gmail.com](fernando82@gmail.com)  
-Rua Ibitirama, 1700 – CEP: 03134-001  
-Vila Prudente – São Paulo  
+1700 Rue Ibitirama  
+03134-001 São Paulo  
+Brésil  
 Téléphone: +55 (11) 97647-4504  
 
 ***
-## Etudes et Formations:
+## Formations:
 
 * **Université presbytérienne Mackenzie**  
 Baccalauréat en sciences en informatique.  
@@ -28,7 +29,7 @@ Juin/2012 - Octobre/2012
 * **L3** -- Développeur CRM  
 [http://www.l3crm.com.br](http://www.l3crm.com.br)  
 Développement et maintenance de systèmes en C# sous Microsoft Dynamics CRM, développement de sites ASP.NET.  
-Mars/2010 - Octobre/2012  
+Mars/2010 - Juin/2012  
 
 * **TV1** -- Développeur .NET  
 [http://www.tv1.com.br](http://www.tv1.com.br)  
@@ -46,7 +47,7 @@ Juillet/2008 - Novembre/2008
 * **Altitude Software** -- Consultation en informatique  
 [http://www.altitude.com](http://www.altitude.com)  
 Développement dans uDeveloper (langage propriétaire). Apprentissage .NET (C #, VB) pendant 4 mois.  
-Septembre/2006 - Accueil/2008.  
+Septembre/2006 - Janvier/2008.  
 
 * **Superdownloads** -- Stagiaire  
 [http://www.superdownloads.com.br](http://www.superdownloads.com.br)  
