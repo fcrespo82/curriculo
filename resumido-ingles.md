@@ -35,7 +35,7 @@ June/2012 - October/2012
 * **L3** -- CRM Analyst Developer  
 [http://www.l3crm.com.br](http://www.l3crm.com.br)  
 C#, Microsoft Dynamics CRM and ASP.NET support and development.  
-March/2010 - October/2012  
+March/2010 - June/2012  
 
 * **TV1** -- .NET Analyst Developer  
 [http://www.tv1.com.br](http://www.tv1.com.br)  

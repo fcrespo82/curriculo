@@ -34,7 +34,7 @@ Junho/2012 - Outubro/2012
 * **L3** -- Analista Desenvolvedor CRM  
 [http://www.l3crm.com.br](http://www.l3crm.com.br)  
 Desenvolvimento e manutenção de sistemas em C# utilizando Microsoft Dynamics CRM, personalização de páginas ASP.NET.  
-Março/2010 - Outubro/2012  
+Março/2010 - Junho/2012  
 
 * **TV1** -- Analista Desenvolvedor .NET  
 [http://www.tv1.com.br](http://www.tv1.com.br)  
